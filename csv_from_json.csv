@@ -1,0 +1,9 @@
+name,birthday,height,weight,car,languages
+John Smith,02.10.1990,175,76.5,True,"['C++', 'Python']"
+Alexey Alexeev,05.06.1986,197,101.2,False,"['Pascal', 'Delphi']"
+Maria Ivanova,28.08.1998,165,56.1,True,"['C#', 'C++', 'C']"
+Egor Afonin,11.04.2002,185,64,False,['Python']
+srgsf,13.03.2005,213,123.3,True,"['Python', 'java']"
+afonin,13.12.2001,183,65.5,True,['Python']
+Igor Ebov,12.12.12,190,124.0,True,"['Python', 'C++', 'Ruby']"
+oksana,12.12.1990,165,60.0,True,['Ruby']
